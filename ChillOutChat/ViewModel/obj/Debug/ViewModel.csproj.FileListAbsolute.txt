@@ -1,0 +1,36 @@
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\ViewModel\bin\Debug\ViewModel.dll
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\ViewModel\bin\Debug\ViewModel.pdb
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\ViewModel\bin\Debug\Models.dll
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\ViewModel\bin\Debug\Service.exe
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\ViewModel\bin\Debug\Models.pdb
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\ViewModel\bin\Debug\Service.pdb
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\ViewModel\bin\Debug\Service.exe.config
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\ViewModel\obj\Debug\ViewModel.dll
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\ViewModel\obj\Debug\ViewModel.pdb
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\ViewModel\bin\Debug\ViewModel.dll
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\ViewModel\bin\Debug\ViewModel.pdb
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\ViewModel\bin\Debug\Models.dll
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\ViewModel\bin\Debug\Service.exe
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\ViewModel\bin\Debug\Models.pdb
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\ViewModel\bin\Debug\Service.pdb
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\ViewModel\bin\Debug\Service.exe.config
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\ViewModel\obj\Debug\ViewModel.csproj.AssemblyReference.cache
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\ViewModel\obj\Debug\ViewModel.dll
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\ViewModel\obj\Debug\ViewModel.pdb
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\ViewModel\bin\Debug\ViewModel.dll
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\ViewModel\bin\Debug\ViewModel.pdb
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\ViewModel\bin\Debug\Models.dll
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\ViewModel\bin\Debug\Service.exe
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\ViewModel\bin\Debug\Models.pdb
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\ViewModel\bin\Debug\Service.pdb
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\ViewModel\bin\Debug\Service.exe.config
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\ViewModel\obj\Debug\ViewModel.csproj.AssemblyReference.cache
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\ViewModel\obj\Debug\ViewModel.dll
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\ViewModel\obj\Debug\ViewModel.pdb

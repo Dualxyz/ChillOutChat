@@ -1,0 +1,98 @@
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\obj\Debug\Views\ChatV.g.cs
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\obj\Debug\Views\ModeratorV.g.cs
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\obj\Debug\App.g.cs
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\obj\Debug\View_MarkupCompile.cache
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\obj\Debug\View_MarkupCompile.lref
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\bin\Debug\View.exe.config
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\bin\Debug\View.exe
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\bin\Debug\View.pdb
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\bin\Debug\Models.dll
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\bin\Debug\System.Windows.Interactivity.dll
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\bin\Debug\ViewModel.dll
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\bin\Debug\Service.exe
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\bin\Debug\Models.pdb
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\bin\Debug\ViewModel.pdb
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\bin\Debug\System.Windows.Interactivity.xml
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\bin\Debug\Service.pdb
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\bin\Debug\Service.exe.config
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\obj\Debug\MainWindow.g.cs
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\obj\Debug\MainWindow.baml
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\obj\Debug\Views\ChatV.baml
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\obj\Debug\Views\ModeratorV.baml
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\obj\Debug\View.g.resources
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\obj\Debug\View.Properties.Resources.resources
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\obj\Debug\View.csproj.CopyComplete
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\obj\Debug\View.exe
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\View\obj\Debug\View.pdb
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\bin\Debug\View.exe.config
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\bin\Debug\View.exe
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\bin\Debug\View.pdb
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\bin\Debug\Models.dll
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\bin\Debug\System.Windows.Interactivity.dll
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\bin\Debug\ViewModel.dll
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\bin\Debug\Service.exe
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\bin\Debug\Models.pdb
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\bin\Debug\ViewModel.pdb
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\bin\Debug\System.Windows.Interactivity.xml
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\bin\Debug\Service.pdb
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\bin\Debug\Service.exe.config
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\obj\Debug\View.csproj.AssemblyReference.cache
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\obj\Debug\View.csproj.SuggestedBindingRedirects.cache
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\obj\Debug\MainWindow.g.cs
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\obj\Debug\Views\ChatV.g.cs
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\obj\Debug\Views\ModeratorV.g.cs
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\obj\Debug\App.g.cs
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\obj\Debug\View_MarkupCompile.cache
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\obj\Debug\View_MarkupCompile.lref
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\obj\Debug\MainWindow.baml
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\obj\Debug\Views\ChatV.baml
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\obj\Debug\Views\ModeratorV.baml
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\obj\Debug\View.g.resources
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\obj\Debug\View.Properties.Resources.resources
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\obj\Debug\View.csproj.GenerateResource.cache
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\obj\Debug\View.csproj.CopyComplete
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\obj\Debug\View.exe
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\View\obj\Debug\View.pdb
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\bin\Debug\View.exe.config
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\bin\Debug\View.exe
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\bin\Debug\View.pdb
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\bin\Debug\Models.dll
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\bin\Debug\System.Windows.Interactivity.dll
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\bin\Debug\ViewModel.dll
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\bin\Debug\Service.exe
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\bin\Debug\Models.pdb
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\bin\Debug\ViewModel.pdb
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\bin\Debug\System.Windows.Interactivity.xml
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\bin\Debug\Service.pdb
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\bin\Debug\Service.exe.config
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\obj\Debug\View.csproj.AssemblyReference.cache
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\obj\Debug\View.csproj.SuggestedBindingRedirects.cache
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\obj\Debug\MainWindow.g.cs
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\obj\Debug\Views\ChatV.g.cs
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\obj\Debug\Views\ModeratorV.g.cs
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\obj\Debug\App.g.cs
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\obj\Debug\View_MarkupCompile.cache
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\obj\Debug\View_MarkupCompile.lref
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\obj\Debug\MainWindow.baml
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\obj\Debug\Views\ChatV.baml
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\obj\Debug\Views\ModeratorV.baml
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\obj\Debug\View.g.resources
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\obj\Debug\View.Properties.Resources.resources
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\obj\Debug\View.csproj.GenerateResource.cache
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\obj\Debug\View.csproj.CopyComplete
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\obj\Debug\View.exe
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\View\obj\Debug\View.pdb

@@ -1,0 +1,18 @@
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\Models\bin\Debug\Models.dll
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\Models\bin\Debug\Models.pdb
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\Models\obj\Debug\Models.dll
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\Models\obj\Debug\Models.pdb
+C:\UsluzniProjekti\RVA\Izrada\AndrejJovanovic\ChillOutChat\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\Models\bin\Debug\Models.dll
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\Models\bin\Debug\Models.pdb
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\Models\obj\Debug\Models.dll
+D:\User\Desktop\AndrejJovanovic\ChillOutChat\Models\obj\Debug\Models.pdb
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\Models\bin\Debug\Models.dll
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\Models\bin\Debug\Models.pdb
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\Models\obj\Debug\Models.dll
+D:\User\Desktop\PR162-2020 RVA Andrej Jovanovic\ChillOutChat\Models\obj\Debug\Models.pdb

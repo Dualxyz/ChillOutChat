@@ -1,0 +1,105 @@
+﻿<UserControl x:Class="View.Views.ChatV"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:View.Views"
+             mc:Ignorable="d" xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+             xmlns:viewModels="clr-namespace:ViewModel.ViewModels;assembly=ViewModel"
+             d:DesignHeight="480" d:DesignWidth="800">
+    <UserControl.DataContext>
+        <viewModels:ChatVM/>
+    </UserControl.DataContext>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0"
+                    Margin="10">
+            <StackPanel>
+                <TextBlock
+                               Text="Search User Messages: "
+                               VerticalAlignment="Center"
+                           HorizontalAlignment="Center"
+                               Grid.Column="0"/>
+                <TextBox Margin="0 5 0 0"
+                             Text="{Binding SearchString, UpdateSourceTrigger=PropertyChanged}"
+                             Grid.Column="1"/>
+                <TextBlock Margin="0 20 0 5"
+                           Text="Pick User: "
+                           HorizontalAlignment="Center"/>
+                <ComboBox ItemsSource="{Binding UsersFront}"
+                          SelectedItem="{Binding SelectedUser}"/>
+                <TextBlock Margin="0 10 0 5"
+                           Text="Create Chatroom (Enter name, then 'Create'): "
+                           HorizontalAlignment="Center"/>
+                <TextBox Text="{Binding ChatRoomName}"/>
+                <Button Content="Create"
+                        Command="{Binding CreateChatRoomCommand}"
+                        Margin="10"
+                        Width="70"/>
+                <TextBlock Margin="0 20 0 5"
+                           Text="Pick Chatroom: "
+                           HorizontalAlignment="Center"/>
+                <ComboBox ItemsSource="{Binding ChatRoomsFront}"
+                          SelectedItem="{Binding SelectedChatRoom}">
+                    <i:Interaction.Triggers>
+                        <i:EventTrigger EventName="SelectionChanged">
+                            <i:InvokeCommandAction Command="{Binding ChatRoomSelectionChangedCommand}"/>
+                        </i:EventTrigger>
+                    </i:Interaction.Triggers>
+                </ComboBox>
+                <TextBlock Margin="0 5 0 5"
+                           Text="Message Content: "
+                           HorizontalAlignment="Center"/>
+                <TextBox Text="{Binding Content}"/>
+                <Button Content="Send Message"
+                        Margin="10"
+                        Width="90"
+                        Command="{Binding SendMessageCommand}"/>
+                <TextBlock Text="Send Automatic Messages: "
+                           HorizontalAlignment="Center"
+                           Margin="0 5"/>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Button Content="Hello!"
+                        Margin="5"
+                            Grid.Column="0"
+                        Command="{Binding HelloCommand}"/>
+                    <Button Content="Goodbye"
+                        Margin="5"
+                            Grid.Column="1"
+                        Command="{Binding GoodbyeCommand}"/>
+                    <Button Content="How are you?"
+                        Margin="5"
+                            Grid.Column="2"
+                        Command="{Binding HowCommand}"/>
+                </Grid>
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Grid.Column="1"
+                    Margin="10">
+            <DataGrid Grid.Column="1"
+                  Margin="10"
+                  ItemsSource="{Binding ChatRoomChatLines}"
+                  Height="300"
+                  VerticalAlignment="Top"
+                      AutoGenerateColumns="False"
+                      IsReadOnly="True">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="User"
+                                    Binding="{Binding Username}"
+                                    Width="*"/>
+                    <DataGridTextColumn Header="Content"
+                                    Binding="{Binding Content}"
+                                    Width="3*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+    </Grid>
+</UserControl>

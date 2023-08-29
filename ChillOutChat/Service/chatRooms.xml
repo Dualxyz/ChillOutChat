@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<ArrayOfChatRoom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ChatRoom>
+    <chatLines>
+      <ChatLine>
+        <user>
+          <concreteMessageFactory />
+          <FirstName>Petar</FirstName>
+          <LastName>Petrovic</LastName>
+        </user>
+        <Content>Hi</Content>
+      </ChatLine>
+      <ChatLine>
+        <user>
+          <concreteMessageFactory />
+          <FirstName>Petar</FirstName>
+          <LastName>Petrovic</LastName>
+        </user>
+        <Content>Hello!</Content>
+      </ChatLine>
+      <ChatLine>
+        <user>
+          <concreteMessageFactory />
+          <FirstName>Petar</FirstName>
+          <LastName>Petrovic</LastName>
+        </user>
+        <Content>How are you?</Content>
+      </ChatLine>
+      <ChatLine>
+        <user>
+          <concreteMessageFactory />
+          <FirstName>Petar</FirstName>
+          <LastName>Petrovic</LastName>
+        </user>
+        <Content>Goodbye!</Content>
+      </ChatLine>
+      <ChatLine>
+        <user>
+          <concreteMessageFactory />
+          <FirstName>Sava</FirstName>
+          <LastName>Savanovic</LastName>
+        </user>
+        <Content>Oy</Content>
+      </ChatLine>
+    </chatLines>
+    <Name>Room1</Name>
+  </ChatRoom>
+</ArrayOfChatRoom>
