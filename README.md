@@ -8,3 +8,5 @@ The technologies which were used are:
 - WPF (with MVVM pattern) for frontend
 - WCF for client-server communication
 - Enterprise architect for designing and exporting UML models to C# classes.
+
+For a more detailed explanation of the project check the [documentation (Serbian Only)](https://github.com/Dualxyz/ChillOutChat/blob/main/ChillOutChat%20-%20Specifikacija.pdf)
