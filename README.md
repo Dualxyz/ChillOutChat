@@ -2,7 +2,7 @@
 
 Description:
 The goal of this project was to create a client-server application with a given model based on the UML diagram that's provided.
-Use 2 design patterns which would fit this project. Big accent on abiding by the SOLID principles.
+Use 2 design patterns (Factory and Command) which would fit this project. Big accent on abiding by the SOLID principles.
 
 The technologies which were used are:
 - WPF (with MVVM pattern) for frontend
